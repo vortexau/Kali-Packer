@@ -1,5 +1,7 @@
 # Cache objects
 packer_cache/
 
+kali-template.json
+
 # For built boxes
 *.box

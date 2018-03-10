@@ -1,5 +1,7 @@
 # Cache objects
 packer_cache/
+SHA256SUMS
+SHA256SUMS.gpg
 
 kali-template.json
 
